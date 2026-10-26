@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-API_URL = "https://interosseous-hilaria-amicably.ngrok-free.dev"
+API_URL = "https://interosseous-hilaria-amicably.ngrok-free.dev/predict"
 
 # ---------------- CUSTOM DESIGN ----------------
 st.markdown("""
